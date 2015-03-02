@@ -1,0 +1,120 @@
+<?php
+/*
+ * @file
+ * Module for sending mail to user waiting activation
+ */
+define('VALIDATION_MAIL_STATUS_WAITING', '1');
+define('VALIDATION_MAIL_STATUS_APPROVED', '2');
+define('VALIDATION_MAIL_STATUS_DECLINED', '3');
+/**
+ * Implements hook_mailkeys().
+ *
+ * @return array
+ */
+function validation_mail_mailkeys() {
+  return array(
+    'validation_mail_status_changed_approved' => t('Validation Status Changed to Approved'),
+    'validation_mail_status_changed_declined' => t('Validation Status Changed to Declined'),
+    );
+}
+
+/**
+ * Implements hook_mail_edit_text().
+ *
+ * @param string $mailkey
+ * @param object $language
+ *
+ * @return array
+ */
+function validation_mail_mail_edit_text($mailkey, $language) {
+  $return = array();
+  $return['subject'] = '';
+  $return['body'] = '';
+  return $return;
+}
+
+/**
+ * Implements hook__user_presave().
+*/
+function validation_mail_user_update(&$edit, $account, $category){
+  $previus_status = field_get_items('user', $account->original, 'field_user_status', language_default());
+  if($previus_status[0]['value'] == VALIDATION_MAIL_STATUS_WAITING){
+    $mail = $account->mail;
+    $status = field_get_items('user', $account, 'field_user_status', language_default());
+    $status = $status[0]['value'];
+    if($status == VALIDATION_MAIL_STATUS_APPROVED){      
+      drupal_mail('validation_mail', 'validation_mail_status_changed_approved', $mail, language_default(), array());
+    }
+    if($status == VALIDATION_MAIL_STATUS_DECLINED){
+      drupal_mail('validation_mail', 'validation_mail_status_changed_declined', $mail, language_default(), array());
+    }
+  }
+}
+
+/**
+ * Implements hook_mail().
+ */
+function validation_mail_mail($key, &$message, $params) {
+  if ($key == 'changing_user_status') {
+    $message['subject'] = 'Mail with attachment';
+    $message['body'][] = 'Body...';
+  }
+}
+
+/**
+ * Implements hook_token_info().
+ */
+function validation_mail_token_info() {
+
+  $type = array(
+    'name' => t('valid-mail'),
+    'description' => t('Validation mail module tokens'),
+  );
+ 
+  $global['user-name'] = array(
+    'name' => t('User count'),
+    'description' => t('Registered users count'),
+  );
+  
+  return array(
+    'types' => array('valid-mail' => $type),
+    'tokens' => array('valid-mail' => $global),
+  );
+}
+
+/**
+ * Implements hook_tokens().
+ */
+function validation_mail_tokens($type, $tokens, array $data = array(), array $options = array()) {
+
+  $replacements = [];
+  if ($type == 'valid-mail') {
+    foreach ($tokens as $name => $original) {
+      switch ($name) {
+        case 'user-name':
+          kpr($data);die;
+          if (isset($data['entity']->name)){
+            $replacements[$original] = validation_mail_get_user_name($data['entity']->name);
+          }
+          break;
+      }
+    }
+  }
+  return $replacements;
+}
+
+function validation_mail_get_user_name($username){
+  return $username;
+}
+
+/**
+ * Implements hook_mail_edit_token_types().
+ *
+ * @param string $mailkey
+ *
+ * @return array
+ */
+function validation_mail_mail_edit_token_types($mailkey)
+{
+  return array('user', 'validation_mail');
+}

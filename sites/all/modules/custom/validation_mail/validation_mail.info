@@ -1,0 +1,7 @@
+name = Validation Mail
+description = Sending mail user when his validation status changed
+core = 7.x
+package = MKS
+
+dependencies[] = user
+dependencies[] = mailsystem

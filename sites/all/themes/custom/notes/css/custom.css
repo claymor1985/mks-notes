@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25.02.2015, 21:32:00
+    Author     : Max
+*/
+
+.note-title {
+  height: 3em;
+  margin-top: 4px;
+}
+.note-rate-urgent {  
+  background: url('images/hot_400.png') no-repeat;
+  background-size: 3em;
+  padding-left: 3em;
+}
+.note-body {
+  height: 200px;
+  overflow-y: scroll;
+}
+.note-item {
+  height: 4em;
+  overflow-style: panner;
+}
