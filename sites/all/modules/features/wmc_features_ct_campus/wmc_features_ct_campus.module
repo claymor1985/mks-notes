@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WMC Features: CT - Campus feature.
+ */
+
+include_once 'wmc_features_ct_campus.features.inc';

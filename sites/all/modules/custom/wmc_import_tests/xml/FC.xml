@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:rsb="http://www.rssbus.com/ns?RsbOps/v1/" xmlns:ls="http://www.microsoft.com/schemas/rss/core/2005" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"  xmlns:sql="http://www.rssbus.com/ns?SqlOps/v1" xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"><channel>
+<ls:treatAs>list</ls:treatAs>
+<ls:listinfo>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="attendancemode" element="attendancemode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="startdate" element="startdate"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="length" element="length"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyname" element="facultyname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="location" element="location"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyfullname" element="facultyfullname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursecode" element="coursecode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursetitle" element="coursetitle"/>
+</ls:listinfo>
+<description/><generator>/n software RSSBus - http://www.rssbus.com</generator>
+<link>http://feeds.westminster.ac.uk/rssbus/pub/prospectus_courses.rsb?@html</link>
+<title>Prospectus Courses at University of Westminster</title>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09FPASM&quot;&gt;P09FPASM&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 1 year &amp;nbsp; Location: Harrow
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Sound for Interactive Media MA</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>P09FPASM</sql:coursecode>
+<sql:coursetitle>Applied Sound for Interactive Media MA</sql:coursetitle>
+<sql:facultyfullname>Faculty of Media, Arts and Design</sql:facultyfullname>
+<sql:facultyname>Media, Arts and Design</sql:facultyname>
+<sql:length>1 year</sql:length>
+<sql:location>Harrow</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">SUcgrQol6NtswPoNqrjf+kecdFk=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09PPASM&quot;&gt;P09PPASM&lt;/a&gt; &amp;nbsp; Attendance: Part-time day &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 2 years &amp;nbsp; Location: Harrow
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Sound for Interactive Media MA</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day</sql:attendancemode>
+<sql:coursecode>P09PPASM</sql:coursecode>
+<sql:coursetitle>Applied Sound for Interactive Media MA</sql:coursetitle>
+<sql:facultyfullname>Faculty of Media, Arts and Design</sql:facultyfullname>
+<sql:facultyname>Media, Arts and Design</sql:facultyname>
+<sql:length>2 years</sql:length>
+<sql:location>Harrow</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">mxRdekDIQ9oFlclgniROsLh69+0=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=U09FUANL&quot;&gt;U09FUANL&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 3 or 4 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and English Language BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>U09FUANL</sql:coursecode>
+<sql:coursetitle>Arabic and English Language BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>3 or 4 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">VKKcAR3k1lZxqhHiLwwEc49h6Ss=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=D09MUANL&quot;&gt;D09MUANL&lt;/a&gt; &amp;nbsp; Attendance: Part-time day &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 5 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and English Language BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day</sql:attendancemode>
+<sql:coursecode>D09MUANL</sql:coursecode>
+<sql:coursetitle>Arabic and English Language BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>5 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">kgWP4WOXnfeKYgnA/0kSdXI1db4=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=U09FUANE&quot;&gt;U09FUANE&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 3 or 4 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and English Literature BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>U09FUANE</sql:coursecode>
+<sql:coursetitle>Arabic and English Literature BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>3 or 4 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">twUvEVk/4Lj3Xqp2FP5Ttlie0iU=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=D09MUANE&quot;&gt;D09MUANE&lt;/a&gt; &amp;nbsp; Attendance: Part-time day &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 5 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and English Literature BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day</sql:attendancemode>
+<sql:coursecode>D09MUANE</sql:coursecode>
+<sql:coursetitle>Arabic and English Literature BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>4 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">Pcp53lkBHTLODrbwWm+iyVkJZCk=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=U09FUANQ&quot;&gt;U09FUANQ&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 3 or 4 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and Linguistics BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>U09FUANQ</sql:coursecode>
+<sql:coursetitle>Arabic and Linguistics BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>3 or 4 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">regm/mncS/QeYu03+Q3Qas7J1/0=</guid>
+</item>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=D09MUANQ&quot;&gt;D09MUANQ&lt;/a&gt; &amp;nbsp; Attendance: Part-time day &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 5 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Arabic and Linguistics BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day</sql:attendancemode>
+<sql:coursecode>D09MUANQ</sql:coursecode>
+<sql:coursetitle>Arabic and Linguistics BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Social Sciences and Humanities</sql:facultyfullname>
+<sql:facultyname>Social Sciences and Humanities</sql:facultyname>
+<sql:length>5 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">oaT+d/TyLj//XmXMP3xIV9WfdFY=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=U09FUATC&quot;&gt;U09FUATC&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 3 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Architectural Technology BSc Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>U09FUATC</sql:coursecode>
+<sql:coursetitle>Architectural Technology BSc Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:length>3 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">qvPmoNJCxnv+oku27XpdYpNLUyY=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=D09MUATC&quot;&gt;D09MUATC&lt;/a&gt; &amp;nbsp; Attendance: Part-time day release &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 5 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Architectural Technology BSc Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day release</sql:attendancemode>
+<sql:coursecode>D09MUATC</sql:coursecode>
+<sql:coursetitle>Architectural Technology BSc Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:length>5 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">hCPb/v/V8Xb+R0cnCUwz5545TYA=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09FPAED&quot;&gt;P09FPAED&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 1 year &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Architecture and Environmental Design MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>P09FPAED</sql:coursecode>
+<sql:coursetitle>Architecture and Environmental Design MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:length>1 year</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">hIh7NALZ7I3HJ0ro+K+uB90wrUY=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09PPAED&quot;&gt;P09PPAED&lt;/a&gt; &amp;nbsp; Attendance: Part-time day/evening &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 2 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Architecture and Environmental Design MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day/evening</sql:attendancemode>
+<sql:coursecode>P09PPAED</sql:coursecode>
+<sql:coursetitle>Architecture and Environmental Design MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:length>2 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">8w09T2S2X5mL1GNNxlvXPYKgk0Y=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=U09FUARC&quot;&gt;U09FUARC&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 3 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Architecture BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>U09FUARC</sql:coursecode>
+<sql:coursetitle>Architecture BA Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:length>3 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">SfQzZl0b2guwQRtbRy/dWK5m5FQ=</guid>
+</item>
+</channel>
+</rss>

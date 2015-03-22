@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:rsb="http://www.rssbus.com/ns?RsbOps/v1/" xmlns:ls="http://www.microsoft.com/schemas/rss/core/2005" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"  xmlns:sql="http://www.rssbus.com/ns?SqlOps/v1" xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"><channel>
+<ls:treatAs>list</ls:treatAs>
+<ls:listinfo>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feestext" element="feestext"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="clearingstatus" element="clearingstatus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesfieldtrip" element="feesfieldtrip"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="ucasukpasscode" element="ucasukpasscode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="more" element="more"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="entryrequirements" element="entryrequirements"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="content" element="content"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursetitle" element="coursetitle"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyname" element="facultyname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="subjectarea" element="subjectarea"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesabb" element="vacanciesabb"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesoverseas" element="vacanciesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursealturl" element="coursealturl"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="introduction" element="introduction"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesmodulebased" element="feesmodulebased"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="careers" element="careers"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="campus" element="campus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="applytype" element="applytype"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="teachandassess" element="teachandassess"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesoverseas" element="feesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feeshomeeu" element="feeshomeeu"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacancieshome" element="vacancieshome"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesband" element="feesband"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesadjustment" element="vacanciesadjustment"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyfullname" element="facultyfullname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursecode" element="coursecode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyhomepage" element="facultyhomepage"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="keywords" element="keywords"/>
+</ls:listinfo>
+<description/><generator>/n software RSSBus - http://www.rssbus.com</generator>
+<link>http://feeds.westminster.ac.uk/rssbus/pub/prospectus_course_details.rsb?@html</link>
+<title>Prospectus Course Details</title>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Faculty: Westminster Business School &amp;nbsp;&amp;nbsp; Faculty homepage: http://www.westminster.ac.uk/wbs &amp;nbsp;&amp;nbsp; Site: Marylebone
+			&lt;br&gt;&lt;br&gt;
+			Alternative URL:  &amp;nbsp;&amp;nbsp; UCAS/UKPASS code: N4N2 &amp;nbsp;&amp;nbsp; Clearing status: N &amp;nbsp;&amp;nbsp; Fees band: Band 0 UG
+			&lt;br&gt;&lt;br&gt;
+			Apply type: UCAS &amp;nbsp;&amp;nbsp; Subject area: Accounting, Finance and Economics
+			&lt;br&gt;&lt;br&gt;
+			Introduction:&lt;br&gt;
+			&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;This course will give you the key financial and accounting skills employers are looking for, as well as broader business and management expertise. You will develop a detailed knowledge of the conceptual and applied aspects of accounting, together with the team-working, problem-solving, communication skills and commercial awareness which companies need in a complex global business world.&lt;/p&gt;&lt;p&gt;These skills and knowledge will open up a range of job opportunities in areas such as financial or management accountancy and equity analysis. You can develop your career in the private or public sector, and the course will help your progression to professional qualifications by providing exemptions from CIMA and ACCA professional exams. Alternatively, many graduates undertake further study, proceeding to a Masters degree in accounting or finance.&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			About the course:&lt;br&gt;
+			&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;The course offers considerable flexibility in the areas in which you might choose to specialise. There is an emphasis on international developments in accounting and finance, and an opportunity to study a foreign language at each credit level.&lt;/p&gt;&lt;h3&gt;Year 1 (Credit Level 4)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Financial Accounting 1&lt;/li&gt;&lt;li&gt;Management Accounting 1&lt;/li&gt;&lt;li&gt;Professional Competences&lt;/li&gt;&lt;li&gt;The Business Context&lt;/li&gt;&lt;li&gt;Plus an option module available from a range of areas including Economics, Data Analysis or Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 2 (Credit Level 5)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Auditing&lt;/li&gt;&lt;li&gt;Business Research and Professional Practice&lt;/li&gt;&lt;li&gt;Financial Accounting 2&lt;/li&gt;&lt;li&gt;Legal Aspects of Business&lt;/li&gt;&lt;li&gt;Management Accounting 2&lt;/li&gt;&lt;li&gt;Plus two option modules from Financial Securities Valuation, Making Management Decisions and other disciplines including Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Placement or Study Abroad year&lt;/h3&gt;&lt;p&gt;Between Year 2 and Year 3 you can undertake a one-year, full-time business placement. Past students have completed placements in a variety of businesses and organisations, including AMEC, Barclays Bank, Commerzbank, Freshfields Bruckhaus Derringer, GE Capital, HSBC and IBM. Alternatively, you could study abroad during this year at one of our partner institutions.&lt;/p&gt;&lt;h3&gt;Year 3 (Credit Level 6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Advanced Financial&lt;/li&gt;&lt;li&gt;Accounting&lt;/li&gt;&lt;li&gt;Advanced Management Accounting&lt;/li&gt;&lt;li&gt;Strategic Perspectives&lt;/li&gt;&lt;li&gt;Plus four options from a range of specialist modules in accounting (Auditing, Company&lt;/li&gt;&lt;li&gt;Law, Corporate Finance, Financial Strategy, Taxation) and other disciplines including Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;International Foundation course&lt;/h3&gt;&lt;p&gt;We work in partnership with Kaplan International College London to provide Foundation courses for international students who don&#8217;t meet our Bachelors degree entry requirements. Visit &lt;a href=&quot;http://www.kiclondon.org.uk&quot;&gt;kiclondon.org.uk&lt;/a&gt; for more information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Three years full-time; four years full-time with placement&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Marylebone)&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Teaching and assessment:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Course fees:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Entry requirements:&lt;br&gt;
+			&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;BBB (GCSE Maths at Grade B or higher is recommended)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;28 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma&lt;/td&gt;&lt;td&gt;DMM&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Careers:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			More:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Keywords: Accounting with Management,business,finance,law,business management
+			</description>
+<pubDate>Thu, 05 Mar 2015 19:10:25 GMT</pubDate>
+<title>Accounting with Management BSc Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:applytype>UCAS</sql:applytype>
+<sql:campus>Marylebone</sql:campus>
+<sql:careers/><sql:clearingstatus>N</sql:clearingstatus>
+<sql:content>&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;The course offers considerable flexibility in the areas in which you might choose to specialise. There is an emphasis on international developments in accounting and finance, and an opportunity to study a foreign language at each credit level.&lt;/p&gt;&lt;h3&gt;Year 1 (Credit Level 4)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Financial Accounting 1&lt;/li&gt;&lt;li&gt;Management Accounting 1&lt;/li&gt;&lt;li&gt;Professional Competences&lt;/li&gt;&lt;li&gt;The Business Context&lt;/li&gt;&lt;li&gt;Plus an option module available from a range of areas including Economics, Data Analysis or Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 2 (Credit Level 5)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Auditing&lt;/li&gt;&lt;li&gt;Business Research and Professional Practice&lt;/li&gt;&lt;li&gt;Financial Accounting 2&lt;/li&gt;&lt;li&gt;Legal Aspects of Business&lt;/li&gt;&lt;li&gt;Management Accounting 2&lt;/li&gt;&lt;li&gt;Plus two option modules from Financial Securities Valuation, Making Management Decisions and other disciplines including Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Placement or Study Abroad year&lt;/h3&gt;&lt;p&gt;Between Year 2 and Year 3 you can undertake a one-year, full-time business placement. Past students have completed placements in a variety of businesses and organisations, including AMEC, Barclays Bank, Commerzbank, Freshfields Bruckhaus Derringer, GE Capital, HSBC and IBM. Alternatively, you could study abroad during this year at one of our partner institutions.&lt;/p&gt;&lt;h3&gt;Year 3 (Credit Level 6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Advanced Financial&lt;/li&gt;&lt;li&gt;Accounting&lt;/li&gt;&lt;li&gt;Advanced Management Accounting&lt;/li&gt;&lt;li&gt;Strategic Perspectives&lt;/li&gt;&lt;li&gt;Plus four options from a range of specialist modules in accounting (Auditing, Company&lt;/li&gt;&lt;li&gt;Law, Corporate Finance, Financial Strategy, Taxation) and other disciplines including Languages&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;International Foundation course&lt;/h3&gt;&lt;p&gt;We work in partnership with Kaplan International College London to provide Foundation courses for international students who don&#8217;t meet our Bachelors degree entry requirements. Visit &lt;a href=&quot;http://www.kiclondon.org.uk&quot;&gt;kiclondon.org.uk&lt;/a&gt; for more information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Three years full-time; four years full-time with placement&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Marylebone)&lt;/p&gt;&lt;/div&gt;</sql:content>
+<sql:coursealturl/><sql:coursecode>U09FUAWM</sql:coursecode>
+<sql:coursetitle>Accounting with Management BSc Honours</sql:coursetitle>
+<sql:entryrequirements>&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;BBB (GCSE Maths at Grade B or higher is recommended)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;28 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma&lt;/td&gt;&lt;td&gt;DMM&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</sql:entryrequirements>
+<sql:facultyfullname>Westminster Business School</sql:facultyfullname>
+<sql:facultyhomepage>http://www.westminster.ac.uk/wbs</sql:facultyhomepage>
+<sql:facultyname>Westminster Business School</sql:facultyname>
+<sql:feesband>Band 0 UG</sql:feesband>
+<sql:feesfieldtrip/><sql:feeshomeeu>9000.00</sql:feeshomeeu>
+<sql:feesmodulebased>N</sql:feesmodulebased>
+<sql:feesoverseas>12000.00</sql:feesoverseas>
+<sql:feestext/><sql:introduction>&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;This course will give you the key financial and accounting skills employers are looking for, as well as broader business and management expertise. You will develop a detailed knowledge of the conceptual and applied aspects of accounting, together with the team-working, problem-solving, communication skills and commercial awareness which companies need in a complex global business world.&lt;/p&gt;&lt;p&gt;These skills and knowledge will open up a range of job opportunities in areas such as financial or management accountancy and equity analysis. You can develop your career in the private or public sector, and the course will help your progression to professional qualifications by providing exemptions from CIMA and ACCA professional exams. Alternatively, many graduates undertake further study, proceeding to a Masters degree in accounting or finance.&lt;/p&gt;&lt;/div&gt;</sql:introduction>
+<sql:keywords>Accounting with Management,business,finance,law,business management</sql:keywords>
+<sql:more/><sql:subjectarea>Accounting, Finance and Economics,Biosciences</sql:subjectarea>
+<sql:teachandassess/><sql:ucasukpasscode>N4N2</sql:ucasukpasscode>
+<sql:vacanciesabb>N</sql:vacanciesabb>
+<sql:vacanciesadjustment>N</sql:vacanciesadjustment>
+<sql:vacancieshome>N</sql:vacancieshome>
+<sql:vacanciesoverseas>N</sql:vacanciesoverseas>
+<guid isPermaLink="false">CSQWJ2bczeuvPWrX7ObaXj+gnTU=</guid>
+</item></channel>
+</rss>

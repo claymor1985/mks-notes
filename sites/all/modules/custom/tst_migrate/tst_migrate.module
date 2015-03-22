@@ -1,0 +1,29 @@
+<?php
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+function tst_migrate_cron() {
+  $migration = Migration::getInstance('MKSXmlUG');
+  $result = $migration->processImport();
+
+  $migration = Migration::getInstance('MKSXmlUGData');
+  $update = $migration->prepareUpdate();
+  $result = $migration->processImport();
+  
+  $migration = Migration::getInstance('MKSXmlPG');
+  $result = $migration->processImport();
+  $migration = Migration::getInstance('MKSXmlPGData');
+  $update = $migration->prepareUpdate();
+  $result = $migration->processImport();
+  
+  $migration = Migration::getInstance('MKSXmlFC');
+  $result = $migration->processImport();
+  $migration = Migration::getInstance('MKSXmlFCData'); 
+  $update = $migration->prepareUpdate();
+  $result = $migration->processImport();
+
+}

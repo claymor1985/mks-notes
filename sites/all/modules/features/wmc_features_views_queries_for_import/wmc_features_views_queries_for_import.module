@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WMC Features: Views - Queries for import feature.
+ */
+
+include_once 'wmc_features_views_queries_for_import.features.inc';

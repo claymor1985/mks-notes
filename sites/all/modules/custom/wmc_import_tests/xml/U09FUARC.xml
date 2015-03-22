@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:rsb="http://www.rssbus.com/ns?RsbOps/v1/" xmlns:ls="http://www.microsoft.com/schemas/rss/core/2005" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"  xmlns:sql="http://www.rssbus.com/ns?SqlOps/v1" xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"><channel>
+<ls:treatAs>list</ls:treatAs>
+<ls:listinfo>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feestext" element="feestext"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="clearingstatus" element="clearingstatus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesfieldtrip" element="feesfieldtrip"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="ucasukpasscode" element="ucasukpasscode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="more" element="more"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="entryrequirements" element="entryrequirements"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="content" element="content"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursetitle" element="coursetitle"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyname" element="facultyname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="subjectarea" element="subjectarea"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesabb" element="vacanciesabb"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesoverseas" element="vacanciesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursealturl" element="coursealturl"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="introduction" element="introduction"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesmodulebased" element="feesmodulebased"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="careers" element="careers"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="campus" element="campus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="applytype" element="applytype"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="teachandassess" element="teachandassess"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesoverseas" element="feesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feeshomeeu" element="feeshomeeu"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacancieshome" element="vacancieshome"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesband" element="feesband"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesadjustment" element="vacanciesadjustment"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyfullname" element="facultyfullname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursecode" element="coursecode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyhomepage" element="facultyhomepage"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="keywords" element="keywords"/>
+</ls:listinfo>
+<description/><generator>/n software RSSBus - http://www.rssbus.com</generator>
+<link>http://feeds.westminster.ac.uk/rssbus/pub/prospectus_course_details.rsb?@html</link>
+<title>Prospectus Course Details</title>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Faculty: Architecture and the Built Environment &amp;nbsp;&amp;nbsp; Faculty homepage: http://www.westminster.ac.uk/abe &amp;nbsp;&amp;nbsp; Site: Marylebone
+			&lt;br&gt;&lt;br&gt;
+			Alternative URL:  &amp;nbsp;&amp;nbsp; UCAS/UKPASS code: K100 &amp;nbsp;&amp;nbsp; Clearing status: N &amp;nbsp;&amp;nbsp; Fees band: Band 0 UG
+			&lt;br&gt;&lt;br&gt;
+			Apply type: UCAS &amp;nbsp;&amp;nbsp; Subject area: Architecture and Interiors
+			&lt;br&gt;&lt;br&gt;
+			Introduction:&lt;br&gt;
+			&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;Architecture is a fascinating subject involving wide-ranging academic, practical and vocational activities. It requires creativity and imagination as well as technical knowledge and skills, and involves the study of the arts, history and technology. Architecture is normally studied with a view to becoming a professional architect, but it is also an excellent vehicle for further academic study at postgraduate level and other forms of career development. &lt;/p&gt;&lt;p&gt;The usual pattern of academic and professional development involves full-time study at undergraduate level for three years (Part 1), followed by a year of practical training. Two further years of full-time postgraduate study (Part 2) are then undertaken, followed by another year of practical training and a period of part-time study, culminating in a final examination (Part 3) to qualify for registration as an architect with the Architects Registration Board (ARB).&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			About the course:&lt;br&gt;
+			&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;Studio-based design activities constitute half of the course, the remaining portion being devoted to history and theory, technology, and professional and management studies. Our diverse and stimulating teaching and learning methods include studio-based tutorials, seminars and &amp;lsquo;crits&amp;rsquo; in addition to lectures, workshop sessions and visits to prominent buildings, exhibitions, galleries, museums and construction sites. You will also complete a field trip in Year 2, and a work experience week in Year 3. There are opportunities to study abroad within the University&amp;rsquo;s exchange arrangements. &lt;/p&gt;&lt;p&gt;The structure of the course is primarily based on core modules, with one option module in Years 2 and 3. Option modules are integrated within concurrent design projects together with the knowledge, skills and abilities generated by lectures in the core modules. The course is prescribed by the Architects Registration Board (ARB) and validated by RIBA. &lt;/p&gt;&lt;p&gt;Studio-based teaching centres on the development of design proposals in response to project briefs. These integrate structural, constructional and environmental criteria, and historical, theoretical and social considerations; sustainability is a key element throughout the course. Skills attainment is an important facet, with an emphasis on representation (through hand and CAD drawing), communication, personal and professional skills. Design studio is taught in small groups in Year 1 and in small mixed groups of students from Years 2 and 3. Your work from the design studio forms the basis of your design portfolio that will be a testament of your achievement when applying for employment and postgraduate study.&lt;/p&gt;&lt;h3&gt;Year Out Short Course (initial period of Practical Training Experience)&lt;/h3&gt;&lt;p&gt;If you intend to seek registration as an architect you will need to undertake your first year of Practical Training Experience in an architect&amp;rsquo;s office (or related discipline). The Department offers a short course during this time in which staff act as Practical Training Advisers. A number of attendant lectures, office visits, seminars and discussion groups are also provided. The entry requirement is completion of a degree in Architecture with Part 1.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;additionalinfo&apos;&gt;&lt;h2&gt;Additional information&lt;/h2&gt;&lt;p&gt;This course is designed for creative and self-motivated candidates, and to gain a place on the course you will need to demonstrate your interest in architecture. You should prepare a portfolio of your own work which illustrates your skills, talents and interests through a variety of media and forms; it may include sketches, drawings, collages, modelling, 3D work and painting. We want to see evidence of your creative process as well as the final outcome, so please include developmental work as well as final pieces, but we are not interested in CAD drawings or software photo manipulations. You may be asked to attend an interview and present your portfolio or to submit the work online with interview by Skype.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Three years full-time&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Marylebone)&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Teaching and assessment:&lt;br&gt;
+			
+
+			&lt;br&gt;&lt;br&gt;
+			Course fees:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Entry requirements:&lt;br&gt;
+			&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;AAB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;35 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma&lt;/td&gt;&lt;td&gt;DDM&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Careers:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			More:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Keywords: ARB,RIBA,ARCHITECTURE, design, interior design, interior
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:45:57 GMT</pubDate>
+<title>Architecture BA Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:applytype>UCAS</sql:applytype>
+<sql:campus>Marylebone</sql:campus>
+<sql:careers/><sql:clearingstatus>N</sql:clearingstatus>
+<sql:content>&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;Studio-based design activities constitute half of the course, the remaining portion being devoted to history and theory, technology, and professional and management studies. Our diverse and stimulating teaching and learning methods include studio-based tutorials, seminars and &amp;lsquo;crits&amp;rsquo; in addition to lectures, workshop sessions and visits to prominent buildings, exhibitions, galleries, museums and construction sites. You will also complete a field trip in Year 2, and a work experience week in Year 3. There are opportunities to study abroad within the University&amp;rsquo;s exchange arrangements. &lt;/p&gt;&lt;p&gt;The structure of the course is primarily based on core modules, with one option module in Years 2 and 3. Option modules are integrated within concurrent design projects together with the knowledge, skills and abilities generated by lectures in the core modules. The course is prescribed by the Architects Registration Board (ARB) and validated by RIBA. &lt;/p&gt;&lt;p&gt;Studio-based teaching centres on the development of design proposals in response to project briefs. These integrate structural, constructional and environmental criteria, and historical, theoretical and social considerations; sustainability is a key element throughout the course. Skills attainment is an important facet, with an emphasis on representation (through hand and CAD drawing), communication, personal and professional skills. Design studio is taught in small groups in Year 1 and in small mixed groups of students from Years 2 and 3. Your work from the design studio forms the basis of your design portfolio that will be a testament of your achievement when applying for employment and postgraduate study.&lt;/p&gt;&lt;h3&gt;Year Out Short Course (initial period of Practical Training Experience)&lt;/h3&gt;&lt;p&gt;If you intend to seek registration as an architect you will need to undertake your first year of Practical Training Experience in an architect&amp;rsquo;s office (or related discipline). The Department offers a short course during this time in which staff act as Practical Training Advisers. A number of attendant lectures, office visits, seminars and discussion groups are also provided. The entry requirement is completion of a degree in Architecture with Part 1.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;additionalinfo&apos;&gt;&lt;h2&gt;Additional information&lt;/h2&gt;&lt;p&gt;This course is designed for creative and self-motivated candidates, and to gain a place on the course you will need to demonstrate your interest in architecture. You should prepare a portfolio of your own work which illustrates your skills, talents and interests through a variety of media and forms; it may include sketches, drawings, collages, modelling, 3D work and painting. We want to see evidence of your creative process as well as the final outcome, so please include developmental work as well as final pieces, but we are not interested in CAD drawings or software photo manipulations. You may be asked to attend an interview and present your portfolio or to submit the work online with interview by Skype.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Three years full-time&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Marylebone)&lt;/p&gt;&lt;/div&gt;</sql:content>
+<sql:coursealturl/><sql:coursecode>U09FUARC</sql:coursecode>
+<sql:coursetitle>Architecture BA Honours</sql:coursetitle>
+<sql:entryrequirements>&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;AAB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;35 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma&lt;/td&gt;&lt;td&gt;DDM&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</sql:entryrequirements>
+<sql:facultyfullname>Faculty of Architecture and the Built Environment</sql:facultyfullname>
+<sql:facultyhomepage>http://www.westminster.ac.uk/abe</sql:facultyhomepage>
+<sql:facultyname>Architecture and the Built Environment</sql:facultyname>
+<sql:feesband>Band 0 UG</sql:feesband>
+<sql:feesfieldtrip/><sql:feeshomeeu>9000.00</sql:feeshomeeu>
+<sql:feesmodulebased>N</sql:feesmodulebased>
+<sql:feesoverseas>12000.00</sql:feesoverseas>
+<sql:feestext/><sql:introduction>&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;Architecture is a fascinating subject involving wide-ranging academic, practical and vocational activities. It requires creativity and imagination as well as technical knowledge and skills, and involves the study of the arts, history and technology. Architecture is normally studied with a view to becoming a professional architect, but it is also an excellent vehicle for further academic study at postgraduate level and other forms of career development. &lt;/p&gt;&lt;p&gt;The usual pattern of academic and professional development involves full-time study at undergraduate level for three years (Part 1), followed by a year of practical training. Two further years of full-time postgraduate study (Part 2) are then undertaken, followed by another year of practical training and a period of part-time study, culminating in a final examination (Part 3) to qualify for registration as an architect with the Architects Registration Board (ARB).&lt;/p&gt;&lt;/div&gt;</sql:introduction>
+<sql:keywords>ARB,RIBA,ARCHITECTURE, design, interior design, interior</sql:keywords>
+<sql:more/><sql:subjectarea>Architecture and Interiors</sql:subjectarea>
+<sql:teachandassess>
+</sql:teachandassess>
+<sql:ucasukpasscode>K100</sql:ucasukpasscode>
+<sql:vacanciesabb>N</sql:vacanciesabb>
+<sql:vacanciesadjustment>Y</sql:vacanciesadjustment>
+<sql:vacancieshome>N</sql:vacancieshome>
+<sql:vacanciesoverseas>N</sql:vacanciesoverseas>
+<guid isPermaLink="false">biMp4wNti1YdRZ1rc+Haxov0j1M=</guid>
+</item></channel>
+</rss>

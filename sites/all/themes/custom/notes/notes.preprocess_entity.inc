@@ -12,7 +12,7 @@ function notes_preprocess_node_note__listing(&$variables){
   $_data = &$variables['_data'];
   
   $_html['title'] = $node->title;
-  $_html['body'] = drupal_render($content['body']);
+  $_html['message'] = drupal_render($content['field_message']);
   $_html['category'] = drupal_render($content['field_category']);
   $_html['rate'] = drupal_render($content['field_rate']);
   $_html['end_date'] = drupal_render($content['field_end_date']);

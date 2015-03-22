@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:rsb="http://www.rssbus.com/ns?RsbOps/v1/" xmlns:ls="http://www.microsoft.com/schemas/rss/core/2005" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"  xmlns:sql="http://www.rssbus.com/ns?SqlOps/v1" xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"><channel>
+<ls:treatAs>list</ls:treatAs>
+<ls:listinfo>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="attendancemode" element="attendancemode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="startdate" element="startdate"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="length" element="length"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyname" element="facultyname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="location" element="location"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyfullname" element="facultyfullname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursecode" element="coursecode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursetitle" element="coursetitle"/>
+</ls:listinfo>
+<description/><generator>/n software RSSBus - http://www.rssbus.com</generator>
+<link>http://feeds.westminster.ac.uk/rssbus/pub/prospectus_courses.rsb?@html</link>
+<title>Prospectus Courses at University of Westminster</title>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=D09PUBMS&quot;&gt;D09PUBMS&lt;/a&gt; &amp;nbsp; Attendance: Part-time day release &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 4 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Biomedical Science BSc Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day release</sql:attendancemode>
+<sql:coursecode>D09PUBMS</sql:coursecode>
+<sql:coursetitle>Applied Biomedical Science BSc Honours</sql:coursetitle>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:length>4 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">mubNs7LpQMS1Gq7xJs/JsF5bzhw=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09FPABN&quot;&gt;P09FPABN&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 1 year &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Biomedical Science MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>P09FPABN</sql:coursecode>
+<sql:coursetitle>Applied Biomedical Science MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:length>1 year</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">X/rOUS66y++5Xsi2KLeOZ+eJFAk=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09MPABN&quot;&gt;P09MPABN&lt;/a&gt; &amp;nbsp; Attendance: Part-time day/evening release &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 2 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Biomedical Science MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day/evening release</sql:attendancemode>
+<sql:coursecode>P09MPABN</sql:coursecode>
+<sql:coursetitle>Applied Biomedical Science MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:length>2 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">u+mLhfkUBFDvw8Bq5a8IRnfmqDw=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09FPABT&quot;&gt;P09FPABT&lt;/a&gt; &amp;nbsp; Attendance: Full-time &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 1 year &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Biotechnology MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Full-time</sql:attendancemode>
+<sql:coursecode>P09FPABT</sql:coursecode>
+<sql:coursetitle>Applied Biotechnology MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:length>1 year</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">hxPHAbmXw8kz7gMIezPN4c7ae6k=</guid>
+</item><item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Code: &lt;a href=&quot;prospectus_course_details.rsb?@rss&amp;inparam:@courseCode=P09MPABT&quot;&gt;P09MPABT&lt;/a&gt; &amp;nbsp; Attendance: Part-time day &amp;nbsp; Starts: 14/09/15 &amp;nbsp; Length: 2 years &amp;nbsp; Location: Central London
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:51:04 GMT</pubDate>
+<title>Applied Biotechnology MSc</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:attendancemode>Part-time day</sql:attendancemode>
+<sql:coursecode>P09MPABT</sql:coursecode>
+<sql:coursetitle>Applied Biotechnology MSc</sql:coursetitle>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:length>2 years</sql:length>
+<sql:location>Central London</sql:location>
+<sql:startdate>14/09/15</sql:startdate>
+<guid isPermaLink="false">b3wurR/uRSJwf3tUxZimALTZhxY=</guid>
+</item>
+</channel>
+</rss>

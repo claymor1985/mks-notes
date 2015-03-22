@@ -4,7 +4,7 @@
       <h3 class="panel-title note-title note-rate-<?php print lcfirst($_html['rate']);?>"><?php print $_html['title'];?></h3>
     </div>
     <div class="panel-body note-body">
-      <?php print $_html['body'];?>
+      <?php print $_html['message'];?>
     </div>
     <ul class="list-group">
       <li class="list-group-item note-item"><strong><?php print $_html['end_date'];?></strong></li>

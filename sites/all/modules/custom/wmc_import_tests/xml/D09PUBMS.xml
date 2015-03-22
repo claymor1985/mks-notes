@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:rsb="http://www.rssbus.com/ns?RsbOps/v1/" xmlns:ls="http://www.microsoft.com/schemas/rss/core/2005" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"  xmlns:sql="http://www.rssbus.com/ns?SqlOps/v1" xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/"><channel>
+<ls:treatAs>list</ls:treatAs>
+<ls:listinfo>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feestext" element="feestext"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="clearingstatus" element="clearingstatus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesfieldtrip" element="feesfieldtrip"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="ucasukpasscode" element="ucasukpasscode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="more" element="more"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="entryrequirements" element="entryrequirements"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="content" element="content"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursetitle" element="coursetitle"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyname" element="facultyname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="subjectarea" element="subjectarea"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesabb" element="vacanciesabb"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesoverseas" element="vacanciesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursealturl" element="coursealturl"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="introduction" element="introduction"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesmodulebased" element="feesmodulebased"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="careers" element="careers"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="campus" element="campus"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="applytype" element="applytype"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="teachandassess" element="teachandassess"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesoverseas" element="feesoverseas"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feeshomeeu" element="feeshomeeu"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacancieshome" element="vacancieshome"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="feesband" element="feesband"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="vacanciesadjustment" element="vacanciesadjustment"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyfullname" element="facultyfullname"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="coursecode" element="coursecode"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="facultyhomepage" element="facultyhomepage"/>
+<ls:sort ns="http://www.rssbus.com/ns?SqlOps/v1" label="keywords" element="keywords"/>
+</ls:listinfo>
+<description/><generator>/n software RSSBus - http://www.rssbus.com</generator>
+<link>http://feeds.westminster.ac.uk/rssbus/pub/prospectus_course_details.rsb?@html</link>
+<title>Prospectus Course Details</title>
+<item xmlns:sp="http://www.rssbus.com/ns?RsbOps/v1/anonymous/" xmlns:x="http://www.rssbus.com/ns?RsbOps/v1/anonymous/">
+<x:dummy/><description>Faculty: Science and Technology &amp;nbsp;&amp;nbsp; Faculty homepage: http://www.westminster.ac.uk/fst &amp;nbsp;&amp;nbsp; Site: Cavendish
+			&lt;br&gt;&lt;br&gt;
+			Alternative URL:  &amp;nbsp;&amp;nbsp; UCAS/UKPASS code:  &amp;nbsp;&amp;nbsp; Clearing status: N &amp;nbsp;&amp;nbsp; Fees band: Band 0 UG
+			&lt;br&gt;&lt;br&gt;
+			Apply type: IPP seq0010 &amp;nbsp;&amp;nbsp; Subject area: Biomedical Sciences
+			&lt;br&gt;&lt;br&gt;
+			Introduction:&lt;br&gt;
+			&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;Applied Biomedical Science represents an integrated approach to the study of human health and disease, with an emphasis on the diagnosis and understanding of disease processes from a medical diagnostic perspective. This course is only open to you if you are employed in a suitable accredited diagnostic laboratory able to support work-based learning; you will need a written statement of support from your employer. &lt;/p&gt;&lt;p&gt;The course builds on the practical knowledge developed within the workplace, and provides underpinning knowledge essential to the development of practising biomedical scientists. This degree enhances your career prospects and also provides the essential grounding needed to go onto one of the many MSc courses available in the School or elsewhere.&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			About the course:&lt;br&gt;
+			&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;Initially you will study the important fundamental sciences underpinning human health and disease, followed by further investigation of disease processes and the biology of associated sub-cellular changes, combined with the principles of laboratory procedures used to aid diagnosis. In addition to this, immunology, molecular biology and genetics are studied within the context of disease processes, along with training in research methods and techniques. &lt;/p&gt;&lt;p&gt;In Years 3 and 4 you will focus on the study of the complex nature of disease as it affects particular physiological systems, focusing on the laboratory procedures that are used in haematology, clinical chemistry, cellular pathology and medical microbiology to diagnose and monitor disease. A major research project, carried out in your home laboratory, will enable you to develop the skills required for genuine scientific inquiry.&lt;/p&gt;&lt;h3&gt;Year 1 (Credit Level 4)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cell Biology&lt;/li&gt;&lt;li&gt;Critical Thinking for Scientists&lt;/li&gt;&lt;li&gt;Human Anatomy and Physiology&lt;/li&gt;&lt;li&gt;Work-Based Learning 1&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 2 (Credit Level 4/5)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Biochemistry and Molecular Biology&lt;/li&gt;&lt;li&gt;Fundamentals of Disease Diagnosis&lt;/li&gt;&lt;li&gt;Immunology&lt;/li&gt;&lt;li&gt;Work-Based Learning 2&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 3 (Credit Level 5/6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Applied Pathophysiology&lt;/li&gt;&lt;li&gt;Biochemistry&lt;/li&gt;&lt;li&gt;Medical Genetics&lt;/li&gt;&lt;li&gt;Medical Microbiology&lt;/li&gt;&lt;li&gt;Research Methods&lt;/li&gt;&lt;li&gt;Work-Based Learning 3&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 4 (Credit Level 6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cellular Pathology&lt;/li&gt;&lt;li&gt;Clinical Chemistry&lt;/li&gt;&lt;li&gt;Clinical Immunology&lt;/li&gt;&lt;li&gt;Haematology and Transfusion Science&lt;/li&gt;&lt;li&gt;Project&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Professional recognition&lt;/h2&gt;&lt;p&gt;The degree is approved by the Health Professions Council (HPC) and accredited by the Institute of&lt;br&gt; Biomedical Science (IBMS) thereby enabling you to fulfil all requirements for HPC registration and membership of the Institute. The course is also recognised by the Society of Biology.&lt;/p&gt;&lt;h2&gt;Biomedical Sciences Foundation Degree&lt;/h2&gt;&lt;p&gt;If you are a healthcare professional in full-time employment in an NHS or private laboratory, but do not have the necessary qualifications for entry into the Applied Biomedical Science BSc Honours, you may choose to study the Biomedical Sciences Foundation Degree.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Four years part-time, day release, one day per week&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Cavendish)&lt;/p&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Teaching and assessment:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Course fees:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Entry requirements:&lt;br&gt;
+			&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;CCC to include two science subjects&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;26 points to include a minimum of 5 in two Higher Level   science subjects&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma/Diploma&lt;/td&gt;&lt;td&gt;MMM/DM in Science&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+			&lt;br&gt;&lt;br&gt;
+			Careers:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			More:&lt;br&gt;
+			
+			&lt;br&gt;&lt;br&gt;
+			Keywords: SCIENCE,BIOLOGY,BIOMEDICAL SCIENCES,BIOSCIENCES,BIOMEDICAL,SCIENCES,BIOMEDICAL SCIENCE,BSC BIOMEDICAL SCIENCES
+			</description>
+<pubDate>Fri, 06 Mar 2015 19:41:58 GMT</pubDate>
+<title>Applied Biomedical Science BSc Honours</title>
+<sp:isreturnitem>false</sp:isreturnitem>
+<sql:applytype>IPP seq0010</sql:applytype>
+<sql:campus>Cavendish</sql:campus>
+<sql:careers/><sql:clearingstatus>N</sql:clearingstatus>
+<sql:content>&lt;div class=&apos;coursecontent&apos;&gt;&lt;p&gt;Initially you will study the important fundamental sciences underpinning human health and disease, followed by further investigation of disease processes and the biology of associated sub-cellular changes, combined with the principles of laboratory procedures used to aid diagnosis. In addition to this, immunology, molecular biology and genetics are studied within the context of disease processes, along with training in research methods and techniques. &lt;/p&gt;&lt;p&gt;In Years 3 and 4 you will focus on the study of the complex nature of disease as it affects particular physiological systems, focusing on the laboratory procedures that are used in haematology, clinical chemistry, cellular pathology and medical microbiology to diagnose and monitor disease. A major research project, carried out in your home laboratory, will enable you to develop the skills required for genuine scientific inquiry.&lt;/p&gt;&lt;h3&gt;Year 1 (Credit Level 4)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cell Biology&lt;/li&gt;&lt;li&gt;Critical Thinking for Scientists&lt;/li&gt;&lt;li&gt;Human Anatomy and Physiology&lt;/li&gt;&lt;li&gt;Work-Based Learning 1&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 2 (Credit Level 4/5)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Biochemistry and Molecular Biology&lt;/li&gt;&lt;li&gt;Fundamentals of Disease Diagnosis&lt;/li&gt;&lt;li&gt;Immunology&lt;/li&gt;&lt;li&gt;Work-Based Learning 2&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 3 (Credit Level 5/6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Applied Pathophysiology&lt;/li&gt;&lt;li&gt;Biochemistry&lt;/li&gt;&lt;li&gt;Medical Genetics&lt;/li&gt;&lt;li&gt;Medical Microbiology&lt;/li&gt;&lt;li&gt;Research Methods&lt;/li&gt;&lt;li&gt;Work-Based Learning 3&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Year 4 (Credit Level 6)&lt;/h3&gt;&lt;p class=&apos;half_margin&apos;&gt;Subjects of study include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cellular Pathology&lt;/li&gt;&lt;li&gt;Clinical Chemistry&lt;/li&gt;&lt;li&gt;Clinical Immunology&lt;/li&gt;&lt;li&gt;Haematology and Transfusion Science&lt;/li&gt;&lt;li&gt;Project&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Professional recognition&lt;/h2&gt;&lt;p&gt;The degree is approved by the Health Professions Council (HPC) and accredited by the Institute of&lt;br&gt; Biomedical Science (IBMS) thereby enabling you to fulfil all requirements for HPC registration and membership of the Institute. The course is also recognised by the Society of Biology.&lt;/p&gt;&lt;h2&gt;Biomedical Sciences Foundation Degree&lt;/h2&gt;&lt;p&gt;If you are a healthcare professional in full-time employment in an NHS or private laboratory, but do not have the necessary qualifications for entry into the Applied Biomedical Science BSc Honours, you may choose to study the Biomedical Sciences Foundation Degree.&lt;/p&gt;&lt;/div&gt;&lt;div class=&apos;lengthlocation&apos;&gt;&lt;h2&gt;Length of course&lt;/h2&gt;&lt;p&gt;Four years part-time, day release, one day per week&lt;/p&gt;&lt;h2&gt;Location&lt;/h2&gt;&lt;p&gt;Central London (Cavendish)&lt;/p&gt;&lt;/div&gt;</sql:content>
+<sql:coursealturl/><sql:coursecode>D09PUBMS</sql:coursecode>
+<sql:coursetitle>Applied Biomedical Science BSc Honours</sql:coursetitle>
+<sql:entryrequirements>&lt;div class=&apos;typicaloffer&apos;&gt;&lt;h2&gt;Typical offer for September 2012&lt;/h2&gt;&lt;table&gt;&lt;tr&gt;&lt;th&gt;Qualification type&lt;/th&gt;&lt;th&gt;Grade/points&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A Levels&lt;/td&gt;&lt;td&gt;CCC to include two science subjects&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;International Baccalaureate&lt;/td&gt;&lt;td&gt;26 points to include a minimum of 5 in two Higher Level   science subjects&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edexcel BTEC Level 3 Extended Diploma/Diploma&lt;/td&gt;&lt;td&gt;MMM/DM in Science&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</sql:entryrequirements>
+<sql:facultyfullname>Faculty of Science and Technology</sql:facultyfullname>
+<sql:facultyhomepage>http://www.westminster.ac.uk/fst</sql:facultyhomepage>
+<sql:facultyname>Science and Technology</sql:facultyname>
+<sql:feesband>Band 0 UG</sql:feesband>
+<sql:feesfieldtrip/><sql:feeshomeeu>6900.00</sql:feeshomeeu>
+<sql:feesmodulebased>N</sql:feesmodulebased>
+<sql:feesoverseas>8600.00</sql:feesoverseas>
+<sql:feestext/><sql:introduction>&lt;div class=&apos;generalinfo&apos;&gt;&lt;p&gt;Applied Biomedical Science represents an integrated approach to the study of human health and disease, with an emphasis on the diagnosis and understanding of disease processes from a medical diagnostic perspective. This course is only open to you if you are employed in a suitable accredited diagnostic laboratory able to support work-based learning; you will need a written statement of support from your employer. &lt;/p&gt;&lt;p&gt;The course builds on the practical knowledge developed within the workplace, and provides underpinning knowledge essential to the development of practising biomedical scientists. This degree enhances your career prospects and also provides the essential grounding needed to go onto one of the many MSc courses available in the School or elsewhere.&lt;/p&gt;&lt;/div&gt;</sql:introduction>
+<sql:keywords>SCIENCE,BIOLOGY,BIOMEDICAL SCIENCES,BIOSCIENCES,BIOMEDICAL,SCIENCES,BIOMEDICAL SCIENCE,BSC BIOMEDICAL SCIENCES</sql:keywords>
+<sql:more/><sql:subjectarea>Biomedical Sciences</sql:subjectarea>
+<sql:teachandassess/><sql:ucasukpasscode/><sql:vacanciesabb/><sql:vacanciesadjustment/><sql:vacancieshome/><sql:vacanciesoverseas/><guid isPermaLink="false">aqHEs/DQwD0uFgLk9HytbTQz5aw=</guid>
+</item></channel>
+</rss>
