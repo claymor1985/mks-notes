@@ -1,8 +1,0 @@
-name = Test migration
-description = Test Migrate module
-package = MKS
-core = 7.x
-
-dependencies[] = migrate
-files[] = tst_migrate.migrate.inc
-files[] = tst_migrate.classes.inc
